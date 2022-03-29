@@ -1,0 +1,10 @@
+<<EOL
+#!bin/bash
+echo "ALX"
+EOL
+root
+git add .
+git commit -m 'Starting to code today, so cool'
+root@2dadaf783348:/alx-zero_day/0x03-git#
+#!bin/bash
+root@2dadaf783348
